@@ -1,0 +1,210 @@
+Loaded 16 states and federal territories.
+
+========== Malaysian States Linked List Menu ==========
+1. Display Ascending Order (A-Z)
+2. Display Descending Order (Z-A)
+3. Display Current Order
+4. Insert State
+5. Delete State
+6. Search State
+7. Exit
+
+Enter your choice: 
+--- States in Ascending Order (16 entries) ---
+ 1. Johore
+ 2. Kedah
+ 3. Kelantan
+ 4. Kuala Lumpur
+ 5. Labuan
+ 6. Malacca
+ 7. Negeri Sembilan
+ 8. Pahang
+ 9. Perak
+10. Perlis
+11. Pulau Pinang
+12. Putrajaya
+13. Sabah
+14. Sarawak
+15. Selangor
+16. Terengganu
+
+========== Malaysian States Linked List Menu ==========
+1. Display Ascending Order (A-Z)
+2. Display Descending Order (Z-A)
+3. Display Current Order
+4. Insert State
+5. Delete State
+6. Search State
+7. Exit
+
+Enter your choice: 
+--- States in Descending Order (16 entries) ---
+ 1. Terengganu
+ 2. Selangor
+ 3. Sarawak
+ 4. Sabah
+ 5. Putrajaya
+ 6. Pulau Pinang
+ 7. Perlis
+ 8. Perak
+ 9. Pahang
+10. Negeri Sembilan
+11. Malacca
+12. Labuan
+13. Kuala Lumpur
+14. Kelantan
+15. Kedah
+16. Johore
+
+========== Malaysian States Linked List Menu ==========
+1. Display Ascending Order (A-Z)
+2. Display Descending Order (Z-A)
+3. Display Current Order
+4. Insert State
+5. Delete State
+6. Search State
+7. Exit
+
+Enter your choice: Enter state to insert: State inserted: Cyberjaya
+
+========== Malaysian States Linked List Menu ==========
+1. Display Ascending Order (A-Z)
+2. Display Descending Order (Z-A)
+3. Display Current Order
+4. Insert State
+5. Delete State
+6. Search State
+7. Exit
+
+Enter your choice: 
+--- States in Ascending Order (17 entries) ---
+ 1. Cyberjaya
+ 2. Johore
+ 3. Kedah
+ 4. Kelantan
+ 5. Kuala Lumpur
+ 6. Labuan
+ 7. Malacca
+ 8. Negeri Sembilan
+ 9. Pahang
+10. Perak
+11. Perlis
+12. Pulau Pinang
+13. Putrajaya
+14. Sabah
+15. Sarawak
+16. Selangor
+17. Terengganu
+
+========== Malaysian States Linked List Menu ==========
+1. Display Ascending Order (A-Z)
+2. Display Descending Order (Z-A)
+3. Display Current Order
+4. Insert State
+5. Delete State
+6. Search State
+7. Exit
+
+Enter your choice: Enter state to delete: State deleted: Sabah
+
+========== Malaysian States Linked List Menu ==========
+1. Display Ascending Order (A-Z)
+2. Display Descending Order (Z-A)
+3. Display Current Order
+4. Insert State
+5. Delete State
+6. Search State
+7. Exit
+
+Enter your choice: Enter state to search: Match found at position 10: Perak
+
+========== Malaysian States Linked List Menu ==========
+1. Display Ascending Order (A-Z)
+2. Display Descending Order (Z-A)
+3. Display Current Order
+4. Insert State
+5. Delete State
+6. Search State
+7. Exit
+
+Enter your choice: Enter state to search: No matching state found.
+
+========== Malaysian States Linked List Menu ==========
+1. Display Ascending Order (A-Z)
+2. Display Descending Order (Z-A)
+3. Display Current Order
+4. Insert State
+5. Delete State
+6. Search State
+7. Exit
+
+Enter your choice: Invalid choice. Please enter a number from 1 to 7.
+
+========== Malaysian States Linked List Menu ==========
+1. Display Ascending Order (A-Z)
+2. Display Descending Order (Z-A)
+3. Display Current Order
+4. Insert State
+5. Delete State
+6. Search State
+7. Exit
+
+Enter your choice: Invalid choice. Please enter a number from 1 to 7.
+
+========== Malaysian States Linked List Menu ==========
+1. Display Ascending Order (A-Z)
+2. Display Descending Order (Z-A)
+3. Display Current Order
+4. Insert State
+5. Delete State
+6. Search State
+7. Exit
+
+Enter your choice: Enter state to delete: More than one state matches; please be more specific.
+Match found at position 1: Cyberjaya
+Match found at position 3: Kedah
+Match found at position 4: Kelantan
+Match found at position 5: Kuala Lumpur
+Match found at position 6: Labuan
+Match found at position 7: Malacca
+Match found at position 8: Negeri Sembilan
+Match found at position 9: Pahang
+Match found at position 10: Perak
+Match found at position 12: Pulau Pinang
+Match found at position 13: Putrajaya
+Match found at position 14: Sarawak
+Match found at position 15: Selangor
+Match found at position 16: Terengganu
+
+========== Malaysian States Linked List Menu ==========
+1. Display Ascending Order (A-Z)
+2. Display Descending Order (Z-A)
+3. Display Current Order
+4. Insert State
+5. Delete State
+6. Search State
+7. Exit
+
+Enter your choice: Enter state to delete: Name cannot be empty.
+
+========== Malaysian States Linked List Menu ==========
+1. Display Ascending Order (A-Z)
+2. Display Descending Order (Z-A)
+3. Display Current Order
+4. Insert State
+5. Delete State
+6. Search State
+7. Exit
+
+Enter your choice: Enter state to insert: That state is already in the list.
+
+========== Malaysian States Linked List Menu ==========
+1. Display Ascending Order (A-Z)
+2. Display Descending Order (Z-A)
+3. Display Current Order
+4. Insert State
+5. Delete State
+6. Search State
+7. Exit
+
+Enter your choice: Exiting program. Goodbye!

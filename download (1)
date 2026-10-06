@@ -1,0 +1,37 @@
+# Build output
+build/
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dSYM/
+/states
+/test_states_list
+
+# Dev-C++ / Code::Blocks / Visual Studio leftovers
+*.layout
+*.depend
+*.cbp
+*.dev
+Makefile.win
+.vs/
+*.sln
+*.vcxproj*
+x64/
+Debug/
+Release/
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Python helper cache
+__pycache__/
+*.pyc

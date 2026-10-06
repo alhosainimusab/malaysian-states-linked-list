@@ -1,0 +1,14 @@
+# Normalise line endings in the repository; keep LF for shell/Make
+* text=auto
+*.c  text eol=lf
+*.h  text eol=lf
+*.sh text eol=lf
+Makefile text eol=lf
+*.yml text eol=lf
+*.md text
+*.txt text
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.pdf binary
